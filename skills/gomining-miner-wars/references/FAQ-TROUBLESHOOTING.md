@@ -114,6 +114,19 @@ Up to **30,000 GMT/day** via BEP-20, ERC-20, or TON.
 
 No. Rewards already earned in the previous mode are kept. Going forward, the miner contributes to whichever mode it's currently set to.
 
+### If I leave my Clan mid-Cycle, do I still get my Miner Wars rewards?
+
+Yes. Any Miner Wars rewards you earned **before** leaving are still included in that week's payout on **Tuesday** (Cycle end) — leaving does not forfeit rewards already earned. Leaving your Clan automatically switches your account back to **Solo Mining** mode.
+
+To leave: open the app, go to your **profile** or **pool** section, select your Clan, and tap **Quit / Leave**.
+
+### Why didn't I receive a Solo Mining reward right after leaving a Clan?
+
+Solo Mining rewards only start accruing once you complete a **full daily mining cycle (00:00 → 00:00 UTC)**, and they appear the **day after** that full cycle finishes — so there's a short delay after switching back.
+
+- If you switch modes **before** the start of a new UTC day, that day counts as your **first** Solo Mining day.
+- Any Miner Wars rewards from before the switch are unaffected — they still arrive in the Tuesday weekly payout.
+
 ### Can I keep some miners in Mining Mode and others in Miner Wars?
 
 Yes — the mode setting is **per-miner**. There is no platform rule that all miners must be in one mode. Hybrid strategy: keep high-TH/high-efficiency miners in Miner Wars (better PPS contribution), keep MNPL or subscription-locked miners in Mining Mode (they can't reinvest anyway).
@@ -132,6 +145,10 @@ There's no hard exclusion, but these miners are typically left in Mining Mode be
 ### When does the Cycle end? My rewards aren't showing
 
 Cycles run **Tuesday 00:00 UTC → next Tuesday 00:00 UTC**. Rewards are calculated and distributed at Cycle end automatically. If you don't see rewards immediately after, give it a short delay — distribution is automatic but not always instant.
+
+### I joined a Clan mid-week — when do I get my reward?
+
+You don't need to complete a full weekly cycle. If your Clan wins **at least one block**, you'll receive your reward on the **next Tuesday** at the end of the current Cycle.
 
 ### A round ran really long / really short
 
